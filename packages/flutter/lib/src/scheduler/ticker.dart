@@ -203,7 +203,6 @@ class Ticker {
     }
   }
 
-
   final TickerCallback _onTick;
 
   int? _animationId;
